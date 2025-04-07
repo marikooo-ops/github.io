@@ -1,0 +1,54 @@
+body{
+   background: url(fruits.jpg);
+   height: 1024px;
+   width: 1440px;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.products{
+    background-color: rgb(255, 255, 255);
+    height: 957px;
+    width: 995px;
+    position: absolute;
+    right: 69px;
+    top: 34px;
+    border-radius: 25px;
+}
+
+h1{
+    font-family: "Bungee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    height: 116px;
+    width: 187px;
+    text-align: center;
+    font-size: 48px;
+    position: absolute;
+    top: 45px;
+    right: 54px;
+    margin: 0;
+    padding: 0;
+    color: #61282F;
+}
+
+h2{
+    font-family: "Bubbler One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    top: 100px;
+    right: 661px;
+    font-size: 40px;
+    width: 300px;
+    height: 46px;
+    color: #61282F;
+}
+
+h3{
+    font-size: 25px;
+    position: absolute;
+    right: 25px;
+    top: 145px;
+    color: #61282F;
+}
